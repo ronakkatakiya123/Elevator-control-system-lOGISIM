@@ -20,11 +20,11 @@ The circuit is built using several fundamental digital electronics components:
 ## Components Used
 | Component | Function |
 |-----------|----------|
-| **Logic Gates** | [cite_start]Decision-making for direction and movement |
-| **D Flip-Flops** | [cite_start]Storing current floor status |
-| **LED Matrix** | [cite_start]Visualizing elevator direction. |
-| **7-Segment Display** | [cite_start]Visualizing current floor position. |
-| **Clock Pulse** | [cite_start]Synchronizing sequential operations. |
+| **Logic Gates** | Decision-making for direction and movement |
+| **D Flip-Flops** | Storing current floor status |
+| **LED Matrix** | Visualizing elevator direction. |
+| **7-Segment Display** | Visualizing current floor position. |
+| **Clock Pulse** | Synchronizing sequential operations. |
 
 ## How to Run
 1. Download and install [Logisim](http://www.cburch.com/logisim/).
